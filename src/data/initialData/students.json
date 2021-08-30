@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Joao",
+        "email": "joao@joao.com",
+        "birthDate": "1980-07-15"
+    },
+    {
+        "name": "Pedro",
+        "email": "pedro@pedro.com",
+        "birthDate": "1987-08-06"
+    },
+    {
+        "name": "Ana",
+        "email": "ana@ana.com",
+        "birthDate": "1996-03-25"
+    },
+    {
+        "name": "Clara",
+        "email": "clara@clara.com",
+        "birthDate": "1999-07-26"
+    },
+    {
+        "name": "Carlos",
+        "email": "carlos@carlos.com",
+        "birthDate": "1994-11-07"
+    }
+]

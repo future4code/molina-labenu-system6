@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Turma 1",
+        "startDate": "2021-08-15",
+        "endDate": "2021-12-30",
+        "module": "1"
+    },
+    {
+        "name": "Turma 2",
+        "startDate": "2020-05-20",
+        "endDate": "2021-01-28",
+        "module": "7"
+    },
+    {
+        "name": "Turma 3-na-night",
+        "startDate": "2022-03-08",
+        "endDate": "2021-10-07",
+        "module": "0"
+    }
+]
