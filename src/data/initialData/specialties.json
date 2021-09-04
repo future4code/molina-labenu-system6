@@ -1,0 +1,23 @@
+[
+    {
+        "description": "Backend"
+    },
+    {
+        "description": "CSS"
+    },
+    {
+        "description": "Programação Orientada a Objetos"
+    },
+    {
+        "description": "React"
+    },
+    {
+        "description": "Redux"
+    },
+    {
+        "description": "Testes"
+    },
+    {
+        "description": "Typescript"
+    }
+]

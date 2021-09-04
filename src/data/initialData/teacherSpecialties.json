@@ -1,0 +1,22 @@
+[
+    {
+        "teacher_id": 2,
+        "specialties_id": 3
+    },
+    {
+        "teacher_id": 3,
+        "specialties_id": 4
+    },
+    {
+        "teacher_id": 2,
+        "specialties_id": 5
+    },
+    {
+        "teacher_id": 5,
+        "specialties_id": 1
+    },
+    {
+        "teacher_id": 4,
+        "specialties_id": 2
+    }
+]

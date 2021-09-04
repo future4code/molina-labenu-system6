@@ -1,0 +1,22 @@
+[
+    {
+        "student_id": 1,
+        "hobbies_id": 3
+    },
+    {
+        "student_id": 3,
+        "hobbies_id": 5
+    },
+    {
+        "student_id": 2,
+        "hobbies_id": 4
+    },
+    {
+        "student_id": 1,
+        "hobbies_id": 1
+    },
+    {
+        "student_id": 4,
+        "hobbies_id": 2
+    }
+]
